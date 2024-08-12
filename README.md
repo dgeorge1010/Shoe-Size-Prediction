@@ -28,7 +28,7 @@ The primary dataset for this analysis is sourced from [Kaggle.com](https://www.k
     
   I conducted an exploratory data analysis to investigate the relationships between numerical features and the target:
 
-  -1. Investigating the relationship between Height and Shoe Size
+  - 1. Investigating the relationship between Height and Shoe Size
      
 ![alt text](https://github.com/dgeorge1010/Shoe-Size-Prediction/blob/65a50cad933a2ca778f7f0d1117532f3652757f4/download1.png) 
 
