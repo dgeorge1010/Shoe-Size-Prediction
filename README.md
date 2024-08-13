@@ -1,5 +1,5 @@
 
-# Assessing Regression Model Performance in Predicting Shoe Size
+# Evaluating Regression Model Performance in Predicting Shoe Size
 
  ### Project Overview
  ---
