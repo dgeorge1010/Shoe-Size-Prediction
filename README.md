@@ -4,7 +4,7 @@
  ### Project Overview
  ---
 
-This project investigates a dataset containing individuals' height, weight, gender, and shoe size. The main goal is to assess if the dataset's features (height, weight, and gender) are adequate for accurately predicting shoe size. Additionally, the project aims to evaluate the performance of a regression model applied to this dataset, assessing its potential for developing a reliable predictive model based on feature selection.
+This project investigates a dataset containing individuals' height, weight, gender, and shoe size. The main goal is to assess if the dataset's features (height, weight, and gender) are adequate for accurately predicting shoe size. Additionally, the project aims to evaluate the performance of a regression model applied to this dataset, evaluating its potential for developing a reliable predictive model based on feature selection.
 The evaluation metrics used to measure the model's effectiveness include:
 
  * 1. Mean Squared Error (MSE)
