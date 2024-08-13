@@ -26,7 +26,7 @@ The primary dataset for this analysis is sourced from [Kaggle.com](https://www.k
 
   #### Exploratory Data Analysis (EDA)
     
-  I conducted an exploratory data analysis to investigate the relationships between numerical features and the target:
+  I conducted an exploratory data analysis to investigate the relationships between the numerical features and the target:
 
 ####  1. Investigating the relationship between Height and Shoe Size
      
