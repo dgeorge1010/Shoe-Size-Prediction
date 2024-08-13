@@ -48,7 +48,7 @@ The scatterplot shows the relationship between weight (in kilograms) and shoe si
 
 ### Interpretation of the evaluation metric results
 
-1. The Mean Absolute Error (MAE) measures the average magnitude of errors in a prediction set, regardless of their direction. It is computed by averaging the absolute differences between predicted and actual values. An MAE of 1.361 means that, on average, the model's predictions deviate from the actual values by approximately 1.361 units.¶
+1. The Mean Absolute Error (MAE) measures the average magnitude of errors in a prediction set, regardless of their direction. It is computed by averaging the absolute differences between predicted and actual values. An MAE of 1.361 means that, on average, the model's predictions deviate from the actual values by approximately 1.361 units.
 2. The Mean Squared Error (MSE) is calculated by averaging the squared differences between predicted and actual values. By squaring the errors, MSE gives more weight to larger discrepancies, making it more sensitive to significant errors compared to MAE. An MSE of 3.757 indicates a relatively higher variance in the errors.
 3. The RMSE, which is the square root of the MSE, serves as an error metric expressed in the same units as the target variable, thus enhancing its interpretability compared to MSE. For instance, an RMSE of 1.938 signifies that the average prediction error is approximately 1.938 units
 4. The Root Mean Squared Error (RMSE), which is the square root of the MSE, provides an error metric in the same units as the target variable, improving interpretability. For example, an RMSE of 1.938 signifies that the average prediction error is approximately 1.938 units.
